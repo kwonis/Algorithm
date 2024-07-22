@@ -12,3 +12,11 @@ for i in range(1,N+2):
         print(f'#{i} -1')
     else:    
         print(f'#{i} {year}/{month}/{date}')
+
+
+
+
+
+
+
+# 18일로 넘어감
